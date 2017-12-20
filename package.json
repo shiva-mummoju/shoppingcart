@@ -9,6 +9,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
+    // this is just for my testing 
   },
   "private": true,
   "dependencies": {
